@@ -11,8 +11,8 @@ import FuncionesGenerales as fg
 cb.conectar()
 
 #En el caso de que no esté creada la base de datos, aqui creamos e insertamos los datos
-# fm.insertTablas()
-# fm.insertarDatos()
+#fm.insertTablas()
+#fm.insertarDatos()
 
 #Creamos la ventana con sus botones
 app = ctk.CTk()
